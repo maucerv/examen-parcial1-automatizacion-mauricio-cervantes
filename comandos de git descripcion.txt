@@ -1,0 +1,10 @@
+git init es para iniciar git en tu maquina 
+git clone (url repositorio) es para clonar el repositorio que quieras para ejecutar o modificar sin afectar al original
+git push origin main sube los archivos a la rama principal 
+git config --global user.name "TuNombre  sirve para hacer el inicio y ver quien genero el repositorio en 
+git status el estatus de los archivos modificados para guardar 
+
+
+
+
+
